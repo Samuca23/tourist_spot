@@ -87,10 +87,6 @@ img {
     height: 2.5rem; 
 }
 
-@media (max-width: 1600) {
-
-}
-
 @media (max-width: 1200px) {
     .area-stop {
         grid-template-rows: auto auto auto;
